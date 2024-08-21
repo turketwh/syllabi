@@ -1,4 +1,4 @@
-This respository contains the publicly availale syllabi for courses taught by William Turkett.
+This respository contains the publicly available syllabi for courses taught by William Turkett.
 
 
 ## Organized By Course
