@@ -1,15 +1,21 @@
-# Course description
+\pagenumbering{gobble}
+
+# CSC 231 - Fall 2024 - Course Description
 
 ## Learning
 
 ### Big questions 
 
-There are three *big questions* that the course content and activities will focus on:
+There are two *big questions* that the course content and activities will focus on:
 
 * How is the *language* part of programming languages processed?
 	* This material will examine the processes of compilation and interpretation, representations for specifying languages, and algorithms for recognizing language structures.
 * What *styles* of programming languages exist?
 	* This material will examine the utility and design of a spectrum of languages, particularly considering how features of a given language make it suitable for a particular style of problem domain
+
+
+As time allows and where relevant, the following question will also be addressed: 
+
 * What *mechanisms* do modern programming languages support?
 	* This material will primarily examine a range of language design features, possible implementations of those features, and costs for supporting such features.
 
@@ -74,17 +80,15 @@ There will be four *practicals*. The first will be lighter-weighted than the oth
 
 ## Course grades
 
-Each of the tests will be scored at 50 points each.  Each of the projects will be scored at 30 points each. The scores given for projects will be based on a rubric shared with each project. Projects may be partially auto-graded. A total of 5 points can be earned from all *Preparation* assignments.  A total of 5 points can be earned from all *Departure* assignments. Taken together, this leads to a breakdown of grades of: 
-
 |     Assessment      | Points Possible | Percentage |
 | :-----------------: | :-------------: | :--------: |
 |       Test 1        |       50        |    20%     |
 |       Test 2        |       50        |    20%     |
-| Test 3 (Final Exam) |       50        |    20%     |
-|      Project 1      |        9        |    3.6%    |
-|      Project 2      |       27        |   10.8%    |
-|      Project 3      |       27        |   10.8%    |
-|      Project 4      |       27        |   10.8%    |
+|       Test 3        |       50        |    20%     |
+|      Practical 1    |        9        |    3.6%    |
+|      Practical 2    |       27        |   10.8%    |
+|      Practical 3    |       27        |   10.8%    |
+|      Practical 4    |       27        |   10.8%    |
 |  Preparation (All)  |        5        |     2%     |
 |   Departure (All)   |        5        |     2%     |
 |      **Total**      |     **250**     |  **100%**  |

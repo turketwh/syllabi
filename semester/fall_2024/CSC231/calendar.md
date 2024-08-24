@@ -1,8 +1,10 @@
-## Course Calendar
+\pagenumbering{gobble}
 
-### Academic Course Dates
+# CSC 231 - Fall 2024 -  Course Calendar
 
-#### Preparation And Departure Activities
+## Academic Course Dates
+
+### Preparation And Departure Activities
 
 The following schedule will hold for most weeks:
 
@@ -11,38 +13,35 @@ The following schedule will hold for most weeks:
 
 During the first week of class, the timing may change, and some weeks one and/or the other may not be assigned.
 
-#### Practicals
+### Practicals
 
-All practicals are due at 11:59pm on the due date. See the [course policies and resources document](../../../common/policies_and_resources.md) for information on the *late work policy*.
+All practicals are due at 11:59pm on the due date. See the *course policies and resources* document for information on the *late work policy*.
 
 | Date Released | Date Due | Event |
 | :--: | :--: | :--: |
-| Wednesday, September 4 | Wednesday, September 11 | Project 1 |
-| ? | ? | Project 2 |
-| ? | ? | Project 3 |
-| ? | ? | Project 4 |
+| Wednesday, September 4 | Wednesday, September 11 | Practical 1 |
+| Friday, September 13 | Monday, September 30 | Practical 2 |
+| Wednesday, October 9 | Friday, October 25 | Practical 3 |
+| Monday, November 11 | Tuesday, December 3 | Practical 4 |
 
-#### Tests
+### Tests
 
 | Date | Event |
 | :-: | :--: |
 | Wednesday, September 25 | Test 1 |
 | Friday, November 1 | Test 2 |
-| Monday, December 9 2:00pm (exam block) | Test 3 |
+| Monday, December 9, 2:00pm (exam block) | Test 3 |
 
-Unless otherwise indicated, the exams will be during the course meeting on a given day. *Test 3* is being given during the final exam block assigned for the course. The times for all final exams can be found in this [document](https://prod.wp.cdn.aws.wfu.edu/sites/120/2024/05/24-25-Final-Exam-Schedule.pdf) published by the Registrar's Office.
+Unless otherwise indicated, the tests will be during the course meeting on a given day. *Test 3* is being given during the final exam block assigned for the course. The times for all final exams can be found in this [document](https://prod.wp.cdn.aws.wfu.edu/sites/120/2024/05/24-25-Final-Exam-Schedule.pdf) published by the Registrar's Office.
 
-
-
-
-### Administrative Course Dates
+## Administrative Course Dates
 
 |          Date          |                   Event                    |
 | :--------------------: | :----------------------------------------: |
 |  Wednesday, August 28  |            First class meeting             |
 |  Monday, September 30  | Last day to drop without transcript impact |
 |   Friday, October 18   | No class (Fall Break); Midterm grades due  |
-|   Monday, October 28   |  Last day to drop with $W$ on transcript   |
+|   Monday, October 28   |  Last day to drop with **W** on transcript   |
 | Wednesday, November 27 |       No class (Thanksgiving Break)        |
 |  Friday, November 29   |       No class (Thanksgiving Break)        |
 |   Friday, December 6   |             Last class meeting             |
