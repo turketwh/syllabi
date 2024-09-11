@@ -19,7 +19,7 @@ All practicals are due at 11:59pm on the due date. See the *course policies and 
 
 | Date Released | Date Due | Event |
 | :--: | :--: | :--: |
-| Friday, September 6 | Monday, September 16 | Practical 1 |
+| Friday, September 6 | Monday, September 16 | Practical 1 (also known as Project 1)|
 | Wednesday, September 18 | Wednesday, October 2 | Practical 2 |
 | Monday, October 14 | Monday, October 28 | Practical 3 |
 | Wednesday, November 13 | Tuesday, December 3 | Practical 4 |
