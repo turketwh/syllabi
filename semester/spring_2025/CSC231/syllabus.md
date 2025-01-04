@@ -1,6 +1,6 @@
-***Note**: This document is a **draft**. This header will be removed when it is finalized.**
+***Note**: This document is a **draft**. This header will be removed when it is finalized.*
 
-# CSC 231 - Spring 2025- Syllabus
+# CSC 231 - Spring 2025 - Syllabus
 
 The links below represent the syllabus for the Spring 2025 CSC 231 course.
 Since they are version controlled, it is possible to see if any changes have been made.
