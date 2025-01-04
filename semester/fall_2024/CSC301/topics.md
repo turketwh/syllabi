@@ -1,4 +1,4 @@
-\pagenumbering{gobble}
+***Note**: This document is **archival** (for a previous semester).  To find a link to current syllabi, go to the repository root at this [link](https://github.com/turketwh/syllabi/blob/main/readme.md)*.
 
 # CSC 301 - Fall 2024 - Course Topics
 
