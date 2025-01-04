@@ -2,7 +2,7 @@
 
 # CSC 231 - Spring 2025- Syllabus
 
-The links below represent the syllabus for the Fall 2024 CSC 231 course.
+The links below represent the syllabus for the Spring 2025 CSC 231 course.
 Since they are version controlled, it is possible to see if any changes have been made.
 
 * [Course description](description.md)
