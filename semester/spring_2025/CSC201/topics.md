@@ -23,4 +23,5 @@ At the end of the semester, this list will be updated to reflect the actual cour
 * Graphs
   * Representations
   * Traversals
+* Sets
 * _More to be added..._ 
