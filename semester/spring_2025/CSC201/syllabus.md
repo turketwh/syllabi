@@ -1,5 +1,3 @@
-***Note**: This document is a **draft**. This header will be removed when it is finalized.*
-
 # CSC 201 - Spring 2025 - Syllabus
 
 The links below represent the syllabus for the Spring 2025 CSC 201 course.
