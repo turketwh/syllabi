@@ -19,14 +19,18 @@ All practicals are due at 11:59pm on the due date. See the *course policies and 
 
 | Date Released | Date Due | Event |
 | :--: | :--: | :--: |
-| ??? | ??? | Practical 1 |
+| Tuesday, January 21 | Tuesday, February 4 | Practical 1 |
+| Tuesday, February 4 | Tuesday, February 25 | Practical 2 |
+| Tuesday, March 4| Tuesday, April 1 | Practical 3 |
+| Tuesday, April 1 | Tuesday, April 22 | Practical 4 |
+
 
 ### Tests
 
 | Date | Event |
 | :-: | :--: |
-| ??? | Test 1 |
-| ??? | Test 2 |
+| Thursday, February 13 | Test 1 |
+| Thursday, March 20 | Test 2 |
 | Wednesday, April 30, 2:00pm | Test 3 |
 
 Unless otherwise indicated, the tests will be during the course meeting on a given day. *Test 3* is being given during the final exam block assigned for the course. The times for all final exams can be found in this [document](https://prod.wp.cdn.aws.wfu.edu/sites/120/2024/05/24-25-Final-Exam-Schedule.pdf) published by the Registrar's Office.
