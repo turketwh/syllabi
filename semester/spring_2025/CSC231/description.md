@@ -1,5 +1,3 @@
-***Note**: This document is a **draft**. This header will be removed when it is finalized.*
-
 # CSC 231 - Spring 2025 - Course Description
 
 ## Prior knowledge assumptions
