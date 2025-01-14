@@ -1,5 +1,3 @@
-\pagenumbering{gobble}
-
 # Course policies and resources
 
 ## Communication and availability
