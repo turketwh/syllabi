@@ -1,5 +1,3 @@
-***Note**: This document is a **draft**. This header will be removed when it is finalized.*
-
 # CSC 231 - Spring 2025 -  Course Calendar
 
 ## Academic Course Dates
@@ -19,14 +17,18 @@ All practicals are due at 11:59pm on the due date. See the *course policies and 
 
 | Date Released | Date Due | Event |
 | :--: | :--: | :--: |
-| ??? | ??? | Practical 1 |
+| Wednesday, January 22 | Wednesday, February 5 | Practical 1 |
+| Thursday, February 6 | Thursday, February 27 | Practical 2 |
+| Thursday, March 6 | Thursday, April 3 | Practical 3 |
+| Friday, April 4 | Wednesday, April 23 | Practical 4 |
+
 
 ### Tests
 
 | Date | Event |
 | :-: | :--: |
-| ??? | Test 1 |
-| ??? | Test 2 |
+| Friday, February 14 | Test 1 |
+| Friday, March 21 | Test 2 |
 | Wednesday, May 7, 2:00pm | Test 3 |
 
 Unless otherwise indicated, the tests will be during the course meeting on a given day. *Test 3* is being given during the final exam block assigned for the course. The times for all final exams can be found in this [document](https://prod.wp.cdn.aws.wfu.edu/sites/120/2024/05/24-25-Final-Exam-Schedule.pdf) published by the Registrar's Office.
