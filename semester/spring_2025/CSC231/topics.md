@@ -1,5 +1,3 @@
-***Note**: This document is a **draft**. This header will be removed when it is finalized.*
-
 # CSC 231 - Spring 2025 - Course Topics
 
 Topics covered in the course are expected to include, but are not limited to, the following. The topics are not necessarily in order of presentation during the course.
