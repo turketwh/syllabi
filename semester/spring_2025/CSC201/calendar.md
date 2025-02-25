@@ -18,7 +18,7 @@ All practicals are due at 11:59pm on the due date. See the *course policies and 
 | Date Released | Date Due | Event |
 | :--: | :--: | :--: |
 | Tuesday, January 21 | Tuesday, February 4 | Practical 1 |
-| Tuesday, February 4 | Tuesday, February 25 | Practical 2 |
+| Tuesday, February 4 | ~~Tuesday, February 25~~ Wednesday, February 26 | Practical 2 |
 | Tuesday, March 4| Tuesday, April 1 | Practical 3 |
 | Tuesday, April 1 | Tuesday, April 22 | Practical 4 |
 
