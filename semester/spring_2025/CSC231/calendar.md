@@ -20,7 +20,7 @@ All practicals are due at 11:59pm on the due date. See the *course policies and 
 | Wednesday, January 22 | Wednesday, February 5 | Practical 1 |
 | Thursday, February 6 | Thursday, February 27 | Practical 2 |
 | Thursday, March 6 | Thursday, April 3 | Practical 3 |
-| Friday, April 4 | Wednesday, April 23 | Practical 4 |
+| ~~Friday, April 4~~ Sunday, April 6 | ~~Wednesday, April 23~~ Friday, April 25 | Practical 4 |
 
 
 ### Tests
