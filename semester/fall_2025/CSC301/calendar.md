@@ -10,7 +10,7 @@ Preparation work, described in a *Preparation Guide* for each module in Canvas, 
 
 ### Practicals
 
-All practicals are due at 11:59pm on the due date. See the *course policies and resources* document for information on the *late work policy*.
+All practicals are due at 11:59pm on the due date. You have a total of 96 hours of "extra time" to use across all the practicals (if you use all 96 hours of "extra time" on the first practical, there is no extra time on the remaining practicals).
 
 | Date Released | Date Due | Event |
 | :--: | :--: | :--: |
@@ -20,7 +20,9 @@ All practicals are due at 11:59pm on the due date. See the *course policies and 
 
 | Date | Event |
 | :-: | :--: |
-| Tuesday, December 9, 2:00pm | Test |
+| Wednesday, September 24 | Test 1 |
+| Friday, October 31 | Test 2 |
+| Tuesday, December 9, 2:00pm | Test 3 |
 
 Unless otherwise indicated, the tests will be during the course meeting on a given day. The last test is being given during the final exam block assigned for the course. The times for all final exams can be found in this [document](https://prod.wp.cdn.aws.wfu.edu/sites/120/2025/06/25-26-Final-Exam-Schedule.pdf) published by the Registrar's Office.
 
