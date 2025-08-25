@@ -16,21 +16,10 @@ Please provide documentation of known excused absences, such as for athletic or 
 
 ## Late work
 
-For any *Practicals*, you have a budget of 4 late days (total) to use throughout the semester at your discretion. I will help you keep track of the balance of late days you have left.  Here is how the late days work:
-
-* You do not need to explain why you used the late day(s).
-* Late day use calculations are rounded up to the nearest half-day increment.
-  * For example, submitting an assignment:
-	  * 11 hours late uses a *half* day
-	  * 17 hours late uses 1 day
-	  * 26 hours late uses 1.5 days
-	  * ...
-* You may use at most 3 late days on any single assignment.
-* Work submitted late when the late day balance is 0 or that goes over 3 days for any one assignment will receive a 0 as a grade.  I will still provide feedback on your work.
+To be able to receive feedback on an in-class engagement activity, the work must be completed before the next module starts.  
 
 Make up tests will only be allowed for officially sanctioned University events or clear cases (where *clear* is determined by the instructor) where students are unable to attend class.
 
-Assignments that are not *Practicals*, such as *Preparation activity* and *Departure activity* assignments, must be turned in by their deadline.
 
 ## Student wellness
 
@@ -72,3 +61,4 @@ As conditions change at the University, it may be necessary to update the calend
 Per the [University bulletin](https://bulletin.wfu.edu/undergraduate/wake-forest-college/student-complaints/), the grievance procedure for academic setting complaints is as follows:
 
 > For complaints in the academic (i.e., classroom) setting, the student should talk personally with or send a written complaint explaining the concern directly to the instructor. Should the student and instructor be unable to resolve the conflict, the student may then turn to the chair of the involved department (in the Wake Forest School of Business, this would be the dean) for assistance. The chair (or dean) will communicate with both parties, seek to understand their individual perspectives, and within a reasonable time, reach a conclusion and share it with both parties. If the student's complaint is not resolved by these procedures, the student should consult with the Office of Academic Advising for assistance. The Associate Dean for Academic Advising will consult with the parties to obtain a resolution. Finally, a student may appeal to the Committee on Academic Affairs which will study the matter, taking input from all parties, and reach a final decision concerning resolution.
+
