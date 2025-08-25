@@ -17,7 +17,7 @@ Preparation work, described in a *Preparation Guide* for each module in Canvas, 
 | Friday, November 21 | Test 3 |
 | Saturday, December 13, 2:00pm | Optional Reassessment Period |
 
-Unless otherwise indicated, the tests will be during the course meeting on a given day. The last test is being given during the final exam block assigned for the course. The times for all final exams can be found in this [document](https://prod.wp.cdn.aws.wfu.edu/sites/120/2025/06/25-26-Final-Exam-Schedule.pdf) published by the Registrar's Office.
+Unless otherwise indicated, the tests will be during the course meeting on a given day. The final exam block assigned for the course will be used for an optional reassessment period. If useful for your other courses, the final exam blocks for all courses can be found in this [document](https://prod.wp.cdn.aws.wfu.edu/sites/120/2025/06/25-26-Final-Exam-Schedule.pdf) published by the Registrar's Office.
 
 ## Administrative Course Dates
 
