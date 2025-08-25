@@ -48,7 +48,7 @@ At the end of the semester, this list will be updated to reflect the actual cour
   * Optimization
   * Memory management
 * Programming paradigms
-  * Event0driven programming
+  * Event-driven programming
   * Functional programming
     * Higher order functions
     * Lambda expressions
