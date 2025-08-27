@@ -16,6 +16,9 @@ Specific dates have not yet been set for the *practicals*, but you can assume th
 
 | Date Released | Date Due | Event |
 | :--: | :--: | :--: |
+| September TBD | TBD | Practical 1 |
+| October TBD | TBD | Practical 2 |
+| November TBD | TBD | Practical 2 |
 
 
 ### Tests
