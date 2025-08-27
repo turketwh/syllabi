@@ -30,7 +30,7 @@ Any *Engagement* work not completed during a class session should be continued a
 
 There will be three *tests* over the semester, including the final exam. The three tests will be closed-book, done-in-class tests.  The tests will not be explicitly cumulative, other than the natural fact that ideas introduced later in the course build on ideas from earlier in the course.
 
-There will be three *practicals*. The first will be lighter-weighted than the other three.
+There will be three *practicals*.
 
 ## Course grades
 
