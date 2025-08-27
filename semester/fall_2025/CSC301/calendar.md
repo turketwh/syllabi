@@ -10,7 +10,9 @@ Preparation work, described in a *Preparation Guide* for each module in Canvas, 
 
 ### Practicals
 
-All practicals are due at 11:59pm on the due date. You have a total of 96 hours of "no questions asked extra time" to use across all the practicals (if you use all 96 hours of "extra time" on the first practical, there is no extra time on the remaining practicals).
+All practicals are due at 11:59pm on the due date. You have a total of 96 hours of "no questions asked extra time" to use across all the practicals (if you use all 96 hours of "extra time" on the first practical, there is no extra time on the remaining practicals).  Practicals submitted late (when consdiering the extra time above) will receive feedback but a grade of 0.
+
+Specific dates have not yet been set for the *practicals*, but you can assume there will be one each in September, October, and November, with at least two weeks to be completed.
 
 | Date Released | Date Due | Event |
 | :--: | :--: | :--: |
