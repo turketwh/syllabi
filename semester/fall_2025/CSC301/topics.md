@@ -1,7 +1,5 @@
 # CSC 301 - Fall 2025 - Course Topics
 
-**Until this note is removed, this document is still a DRAFT and could continue to change!**
-
 ## Big questions
 
 The big questions tackled in this class are:
