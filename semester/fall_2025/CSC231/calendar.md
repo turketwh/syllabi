@@ -1,4 +1,4 @@
-# CSC 231 - Fall 2025 -  Course Calendar - DRAFT
+# CSC 231 - Fall 2025 -  Course Calendar
 
 ## Academic Course Dates
 
