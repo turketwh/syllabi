@@ -1,7 +1,5 @@
 # CSC 231 - Fall 2025 - Course Description
 
-**Until this note is removed, this document is still a DRAFT and could continue to change!**
-
 ## Prior knowledge assumptions
 
 Students are expected to have background knowledge equivalent to the completion of the WFU courses of CSC 111, CSC 112, and MST 117.  In particular, all students are expected to be comfortable with:
