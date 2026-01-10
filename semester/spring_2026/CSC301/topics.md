@@ -11,7 +11,7 @@ The big questions tackled in this class are:
   - How much work does it require to determine a solution, and can we do better?
 * What are major categories of algorithmic design techniques (what tools do I have in my toolbox)?
 * Are there problems that are too difficult to solve, and, if so, can solutions be approximated?
-* How does my algorithm thinking need to change if I have more than one processor available?
+* How does my algorithmic thinking need to change if I have more than one processor available?
 
 ## Learning objectives
 
@@ -23,12 +23,12 @@ After successful completion of this course, students should be able to:
 
 - Graph data structure
 - Reductions between problems
-- Modeling algorithms with recurrence relations
+- Modeling the cost of (work required by) algorithms with recurrence relations
 - Solving recurrence relations using:
   - Backward subsitution
   - Recurrence trees
   - Master theorem
-- Modeling the work of a problem using sub-problem decomposition
+- Modeling the work need to solve a problem using sub-problem decomposition, including recurrences
 - Algorithmic design techniques and example problems
   - Divide and conquer
   - Dynamic programming
